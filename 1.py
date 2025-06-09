@@ -26,8 +26,7 @@ import numpy as np
 
 # z_scores = (x - mean) / std
 # print("Z-scores:", z_scores)
-import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # Input (Hours studied)
 X = np.array([1, 2, 3, 4, 5])
